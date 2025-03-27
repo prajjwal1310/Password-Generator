@@ -1,1 +1,1 @@
-https://prajjwal1310.github.io/Password-Generator/
+https://prajjwal1310.github.io/QR_Code_Generator/
